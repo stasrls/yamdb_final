@@ -53,8 +53,6 @@ http://localhost/admin
 
 ### Авторы
 [Шалгынов Станислав](https://github.com/stasrls)
-[Черноусов Антон](https://github.com/ChernousovAnton)
-[Толкачев Сергей](https://github.com/SPTolkachev)
 
 ### Лицензия
 The Unlicense
