@@ -59,8 +59,7 @@ jobs:
         username: ${{ secrets.USER }}
         key: ${{ secrets.SSH_KEY }}
         script: |
-          # Выполняет pull образа с DockerHub
-          # sudo docker pull ${{ secrets.DOCKER_USERNAME }}/yamdb_final:v0.1
+          sudo docker image pull ${{ secrets.DOCKER_USERNAME }}/web:latest
           sudo docker-compose stop
           sudo docker-compose rm web
           touch .env
