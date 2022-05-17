@@ -51,6 +51,11 @@ http://localhost/admin
 |`DB_HOST`               |`db`                           |Название хоста                       |
 |`DB_PORT`               |5432                           |Порт для подключения к БД                           |
 
+### Ссылки
+1) http://51.250.96.221/admin/
+2) http://51.250.96.221/redoc/
+3) http://51.250.96.221/api/v1
+
 ### Авторы
 [Шалгынов Станислав](https://github.com/stasrls)
 
