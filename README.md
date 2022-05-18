@@ -54,7 +54,11 @@ http://localhost/admin
 ### Ссылки
 1) http://51.250.96.221/admin/
 2) http://51.250.96.221/redoc/
-3) http://51.250.96.221/api/v1
+3) http://51.250.96.221/api/
+4) http://51.250.96.221/api/v1/auth/signup/
+5) http://51.250.96.221/api/v1/auth/token/
+6) http://51.250.96.221/api/v1/genres/
+7) http://51.250.96.221/api/v1/categories/
 
 ### Авторы
 [Шалгынов Станислав](https://github.com/stasrls)
